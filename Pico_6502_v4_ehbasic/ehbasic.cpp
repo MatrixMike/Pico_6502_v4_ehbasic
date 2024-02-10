@@ -12,5 +12,5 @@ const uint8_t vectors_bin[] = {
 
 //#include "C:\cygwin64\home\Rien\pico\ehbasic.neo6502\basic.mon"
 const uint8_t ehbasic_bin[] = {
-#include "C:\cygwin64\home\Rien\pico\ehbasic.neo6502\basic.mon"
+#include "/home/mikeh/Pico_6502_v4_ehbasic/ehbasic.neo6502/basic.mon"
 };

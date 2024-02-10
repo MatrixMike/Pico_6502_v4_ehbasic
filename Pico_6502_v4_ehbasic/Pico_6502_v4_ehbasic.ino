@@ -4,11 +4,11 @@
 
  Inspired by work  http://www.8bitforce.com/blog/2019/03/12/retroshield-6502-operation/
 */
+#include <Arduino.h>
+//#include <pico/stdio.h>
 
-#include "pico/stdio.h"
-
-#include "pico/stdlib.h"
-#include "pico/time.h"
+//#include "pico/stdlib.h"
+//#include "pico/time.h"
 
 #include "mos65C02.h"
 #include "memory.h"
